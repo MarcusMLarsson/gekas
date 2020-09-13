@@ -13,6 +13,7 @@ import TabNavigator from './components/Navigator';
 
 
 export default function App() {
+
   return (
     <TabNavigator/>
     
